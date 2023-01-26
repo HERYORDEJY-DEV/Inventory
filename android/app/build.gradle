@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.inventory"
+    namespace "dev.heryordejy.inventory"
     defaultConfig {
-        applicationId "com.inventory"
+        applicationId "dev.heryordejy.inventory"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

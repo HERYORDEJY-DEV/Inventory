@@ -1,4 +1,4 @@
-package com.inventory;
+package dev.heryordejy.inventory;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
